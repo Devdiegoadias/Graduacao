@@ -1,0 +1,54 @@
+Faça um algoritmo que exiba quantas pessoas possuem mais de 18 anos. 
+O algoritmo deverá ler a idade de 10 pessoas.
+ int qtde = 0;
+ int idade = 0;
+ Console.WriteLine("Exercício 2 - Verifica maior idade");
+ int i = 0;
+ while (i < 10)
+ {
+ i = i + 1;
+ Console.Write("Informe a idade da pessoa: ");
+ idade = Convert.ToInt32(Console.ReadLine());
+ if (idade >= 18)
+ {
+ qtde = qtde + 1;
+ }
+ }
+ Console.WriteLine("Existem " + qtde + " pessoas com mais de 18 anos");
+ Console.ReadKey();
+
+*****************************************************************
+DESAFIO 1 - Enviados até amanhã 12:00 !!!!!!
+
+Desenvolva uma Aplicação que calcule e mostre os ganhos
+reajustados de 5 colaboradores, 
+que deverão ser previamente cadastrados, de acordo 
+com a regra: Salário até 3000, reajuste de 55%; 
+Salários maiores que 3000, reajuste de 35%.
+A aplicação deve imprimir na tela todos os colaboradores cadastrados, 
+por ordem alfabética.
+
+
+ Double salario = 0;
+ Double salarioNovo = 0;
+ Console.WriteLine("Efetua o reajuste salarial");
+ for (int i = 0; i < 3; i++)
+ {
+ Console.Write("Informe o salário: ");
+ salario = Convert.ToDouble(Console.ReadLine());
+ if (salario <= 300)
+ { //50%
+ salarioNovo = salario * 1.50;
+ }
+ else
+ { //30%
+ salarioNovo = salario + ((salario * 30) / 100);
+ }
+ Console.WriteLine("Salário reajustado: " + salarioNovo);
+ }
+ Console.ReadKey();
+ 
+ ***************************************************************
+ 
+Faça um algoritmo para ler um vetor de 30 números. Após isto, ler mais um número qualquer,
+calcular e escrever quantas vezes esse número aparece no vetor e em que posições se encontram.

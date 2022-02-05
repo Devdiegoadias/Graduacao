@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3", "TP3\TP3.csproj", "{ED450AFF-B729-400B-9A71-DD1B53E13C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PplRepo", "PplRepo\PplRepo.csproj", "{D06E220A-E69B-4ACE-AB34-E51DF8FB3648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED450AFF-B729-400B-9A71-DD1B53E13C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED450AFF-B729-400B-9A71-DD1B53E13C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED450AFF-B729-400B-9A71-DD1B53E13C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED450AFF-B729-400B-9A71-DD1B53E13C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06E220A-E69B-4ACE-AB34-E51DF8FB3648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06E220A-E69B-4ACE-AB34-E51DF8FB3648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06E220A-E69B-4ACE-AB34-E51DF8FB3648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06E220A-E69B-4ACE-AB34-E51DF8FB3648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1E29B6-3FF2-4542-8B0C-151B28CBA2B3}
+	EndGlobalSection
+EndGlobal
