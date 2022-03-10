@@ -4,12 +4,14 @@
     {
          string _nome;
          string _cpf;
+         Generos _genero;
          
         
-        public Pessoa( string nome, string cpf) 
+        public Pessoa( string nome, string cpf, Generos genero) 
         {
             _nome = nome;
             _cpf = cpf;
+            _genero = genero;
         }
 
         public virtual void Escrever()
@@ -26,7 +28,7 @@
         public float _salario;
        
 
-        public Colaborador(int matricula, string nome, string cpf, bool especial, float salario):base(nome,cpf)
+        public Colaborador(int matricula, string nome, string cpf, bool especial, float salario, Generos genero):base(nome,cpf,genero)
         {
             _matricula = matricula;            
             _colaboradorEspecial = especial;
@@ -48,7 +50,7 @@
     public class Cliente : Pessoa
     {
         decimal _valorCompra;
-        public Cliente(string nome, string cpf, decimal valorCompra):base(nome,cpf)
+        public Cliente(string nome, string cpf, decimal valorCompra, Generos genero):base(nome,cpf, genero)
         {            
             _valorCompra = valorCompra;
         }
