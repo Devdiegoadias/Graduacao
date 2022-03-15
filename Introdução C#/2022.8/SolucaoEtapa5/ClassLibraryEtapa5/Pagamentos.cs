@@ -31,7 +31,7 @@ namespace ClassLibraryEtapa5
 
         public virtual void EscreverValorPagamento()
         {
-            Console.WriteLine("PAGANDO CARTÃO");
+            Console.WriteLine("PAGANDO CONTA");
         }
     }
     public class PagamentoBoleto : Pagamento, ICalcularPagamento

@@ -40,6 +40,7 @@ class Programa
              p2.Escrever();
             */
 
+            /*
             PagamentoBoleto pagtoboleto = new PagamentoBoleto("1111111",10000);
 
             PagamentoCartao pagtocartao = new PagamentoCartao("Carlos", Bandeiras.MasterCard,100000);
@@ -48,15 +49,15 @@ class Programa
 
             pagtocartao.EscreverValorPagamento();
 
-            /*
-            IPagamento ipagto = pagtoboleto;
 
-            ipagto.EscreverValorPagamento();
+            ICalcularPagamento ipagto = pagtoboleto;
+
+            ipagto.CalcularPagamento();
 
             ipagto = pagtocartao;
 
-            ipagto.EscreverValorPagamento();
-            */
+            ipagto.CalcularPagamento();
+            
 
             Pagamento pagto = pagtoboleto;
             pagto = pagtocartao;
@@ -83,11 +84,56 @@ class Programa
                 
                Console.WriteLine( i.CalcularPagamento());
             }
+            */
 
+            var colaborador1 = new Colaborador(444, "Carlo", "08755598834", true, 50000, Generos.Masculino);
+            var colaborador2 = new Colaborador(333, "Teles", "08755598834", true, 30000, Generos.Masculino);
+            var colaborador3 = new Colaborador(222, "Lucas", "08755598834", true, 40000, Generos.Masculino);
+            var colaborador4 = new Colaborador(111, "Rodrigo", "08755598834", true, 20000, Generos.Masculino);
+
+            var lstColaborador = new List<Colaborador>();
+
+            lstColaborador.Add(colaborador1);
+            lstColaborador.Add(colaborador2);
+            lstColaborador.Add(colaborador3);
+            lstColaborador.Add(colaborador4);
+
+            /*
+            Console.WriteLine("maria".CompareTo("antonia"));
+            Console.WriteLine("maria".CompareTo("neide"));
+            Console.WriteLine("maria".CompareTo("maria"));
+            */
+
+            lstColaborador.Sort();
+
+            foreach (var x in lstColaborador)
+            {
+                Console.WriteLine(x.ToString());
+            }
+
+            Console.WriteLine("");
+            Console.WriteLine("");            
+
+            var lst = lstColaborador.OrderBy(x => x._matricula);
+
+            foreach (var x in lst)
+            {
+                Console.WriteLine(x.ToString());
+            }          
+
+            Console.ReadKey();
         }
         catch (InfnetNegocioException e)
         {
 
+        }
+        catch (ArgumentException e)
+        {
+            Console.WriteLine("Argumento inválido:" + e.Message + e.InnerException?.Message + e.StackTrace);
+        }
+        catch (InvalidOperationException e)
+        {
+            Console.WriteLine(e.Message);
         }
         catch (Exception ex)
         {
