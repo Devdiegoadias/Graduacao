@@ -66,10 +66,12 @@
             return _salario.CompareTo(other._salario);            
         }
 
+       
         public override string ToString()
-        {            
+        {                        
             return $"Matricula:{_matricula}, Nome:{base._nome}, Salario:{_salario}";
-        }     
+        }
+       
     }
 
     public class Cliente : Pessoa

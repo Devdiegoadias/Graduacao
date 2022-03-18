@@ -18,6 +18,8 @@ class Programa
              colaborador3.calculaPLR();
              colaborador4.calculaPLR();
 
+            
+
              //Alterando o Bonus
              Colaborador.bonus = 10;
 
@@ -38,9 +40,9 @@ class Programa
 
              cliente1.Escrever();
              p2.Escrever();
-            */
+            
 
-            /*
+            */
             PagamentoBoleto pagtoboleto = new PagamentoBoleto("1111111",10000);
 
             PagamentoCartao pagtocartao = new PagamentoCartao("Carlos", Bandeiras.MasterCard,100000);
@@ -84,25 +86,26 @@ class Programa
                 
                Console.WriteLine( i.CalcularPagamento());
             }
-            */
+            
 
             var colaborador1 = new Colaborador(444, "Carlo", "08755598834", true, 50000, Generos.Masculino);
             var colaborador2 = new Colaborador(333, "Teles", "08755598834", true, 30000, Generos.Masculino);
             var colaborador3 = new Colaborador(222, "Lucas", "08755598834", true, 40000, Generos.Masculino);
             var colaborador4 = new Colaborador(111, "Rodrigo", "08755598834", true, 20000, Generos.Masculino);
 
+            Console.WriteLine(colaborador4.ToString());
+
             var lstColaborador = new List<Colaborador>();
 
             lstColaborador.Add(colaborador1);
             lstColaborador.Add(colaborador2);
             lstColaborador.Add(colaborador3);
-            lstColaborador.Add(colaborador4);
-
-            /*
+            lstColaborador.Add(colaborador4);            
+            
             Console.WriteLine("maria".CompareTo("antonia"));
             Console.WriteLine("maria".CompareTo("neide"));
             Console.WriteLine("maria".CompareTo("maria"));
-            */
+            
 
             lstColaborador.Sort();
 

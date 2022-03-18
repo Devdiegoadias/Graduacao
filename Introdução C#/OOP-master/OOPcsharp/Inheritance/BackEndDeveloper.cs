@@ -15,6 +15,7 @@ namespace OOPcsharp.Inheritance
 
         private string _local;
         private string _area;
+        
         public string TeamName
         {
             get
@@ -22,6 +23,7 @@ namespace OOPcsharp.Inheritance
                 return string.Format("{0} {1}", this._local, this._area);
             }
         }
+        
 
         public BackEndDeveloper(string firstName, string lastName, int yearsExperience, string local, string area) : base(firstName, lastName)
         {
@@ -40,9 +42,11 @@ namespace OOPcsharp.Inheritance
             Console.WriteLine(string.Format("Hey my name is {0}. I am a BackEnd Developer with {1} year(s) of experience!", this.FullName, this._yearsExperience));
         }
 
+        
         public void Team()
         {
             Console.WriteLine(string.Format("Hey my name is {0}. I am a BackEnd Developer from {1} team.", this.FullName, this.TeamName));
         }
+        
     }
 }
