@@ -5,6 +5,38 @@ class Programa
     {
         try
         {
+            string emailColaborador = string.Empty;
+
+            emailColaborador = "Carlo.Pecca@exercito.com.br";
+
+            emailColaborador.EmailValido();
+
+            int num = 5;
+
+            int num2 = 10;
+            float num3 = 30;
+
+            num.MultiplicaPorDois();
+            num2.MultiplicaPorDois();
+
+            var retorno = num.TesteObject();
+
+            retorno = num3.TesteObject();
+
+            retorno = emailColaborador.TesteObject();
+
+            CalculaPreco preco = new CalculaPreco();
+
+            Pai varPai = new Pai();
+
+            varPai._cpf = 100000;
+
+            Console.WriteLine("Preco comum:" + preco.CalculoFinal(10, 1000));
+            Console.WriteLine("Preco blackfriday:" + preco.PrecoBlackFriday(10, 1000));
+            
+            varPai._cpf = 4242340;
+
+
             /*
              Colaborador.bonus = 2;
 
@@ -43,9 +75,9 @@ class Programa
             
 
             */
-            PagamentoBoleto pagtoboleto = new PagamentoBoleto("1111111",10000);
+            PagamentoBoleto pagtoboleto = new PagamentoBoleto("1111111", 10000);
 
-            PagamentoCartao pagtocartao = new PagamentoCartao("Carlos", Bandeiras.MasterCard,100000);
+            PagamentoCartao pagtocartao = new PagamentoCartao("Carlos", Bandeiras.MasterCard, 100000);
 
             pagtoboleto.EscreverValorPagamento();
 
@@ -59,7 +91,7 @@ class Programa
             ipagto = pagtocartao;
 
             ipagto.CalcularPagamento();
-            
+
 
             Pagamento pagto = pagtoboleto;
             pagto = pagtocartao;
@@ -75,18 +107,18 @@ class Programa
             lstpagamento.Add(pagtocartao2);
             lstpagamento.Add(pagtoboleto2);
 
-            foreach(Pagamento p in lstpagamento)
+            foreach (Pagamento p in lstpagamento)
             {
                 p.ValorPagamento = 10;
                 p.EscreverValorPagamento();
             }
 
-            foreach(ICalcularPagamento i in lstpagamento)
+            foreach (ICalcularPagamento i in lstpagamento)
             {
-                
-               Console.WriteLine( i.CalcularPagamento());
+
+                Console.WriteLine(i.CalcularPagamento());
             }
-            
+
 
             var colaborador1 = new Colaborador(444, "Carlo", "08755598834", true, 50000, Generos.Masculino);
             var colaborador2 = new Colaborador(333, "Teles", "08755598834", true, 30000, Generos.Masculino);
@@ -100,12 +132,12 @@ class Programa
             lstColaborador.Add(colaborador1);
             lstColaborador.Add(colaborador2);
             lstColaborador.Add(colaborador3);
-            lstColaborador.Add(colaborador4);            
-            
+            lstColaborador.Add(colaborador4);
+
             Console.WriteLine("maria".CompareTo("antonia"));
             Console.WriteLine("maria".CompareTo("neide"));
             Console.WriteLine("maria".CompareTo("maria"));
-            
+
 
             lstColaborador.Sort();
 
@@ -115,14 +147,14 @@ class Programa
             }
 
             Console.WriteLine("");
-            Console.WriteLine("");            
+            Console.WriteLine("");
 
             var lst = lstColaborador.OrderBy(x => x._matricula);
 
             foreach (var x in lst)
             {
                 Console.WriteLine(x.ToString());
-            }          
+            }
 
             Console.ReadKey();
         }

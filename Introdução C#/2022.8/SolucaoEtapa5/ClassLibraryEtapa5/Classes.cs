@@ -87,4 +87,12 @@
             Console.WriteLine("EU SOU UM CLIENTE");
         }
     }
+
+    public class CalculaPreco
+    {
+        public int CalculoFinal(int quantidade, int preco)
+        {
+            return quantidade * preco;
+        }
+    }
 }
