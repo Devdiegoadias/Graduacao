@@ -8,7 +8,6 @@ namespace ClassLibraryEtapa5
 {
     public class Territorio
     {
-
         public virtual void RetornaNome() { }
     }
 
