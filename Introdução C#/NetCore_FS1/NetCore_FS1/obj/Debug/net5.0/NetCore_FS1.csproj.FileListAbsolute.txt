@@ -1,0 +1,16 @@
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\bin\Debug\net5.0\NetCore_FS1.exe
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\bin\Debug\net5.0\NetCore_FS1.deps.json
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\bin\Debug\net5.0\NetCore_FS1.runtimeconfig.json
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\bin\Debug\net5.0\NetCore_FS1.runtimeconfig.dev.json
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\bin\Debug\net5.0\NetCore_FS1.dll
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\bin\Debug\net5.0\NetCore_FS1.pdb
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.csproj.AssemblyReference.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.AssemblyInfoInputs.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.AssemblyInfo.cs
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.csproj.CoreCompileInputs.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.dll
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\refint\NetCore_FS1.dll
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.pdb
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\NetCore_FS1.genruntimeconfig.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\NetCore_FS1\obj\Debug\net5.0\ref\NetCore_FS1.dll

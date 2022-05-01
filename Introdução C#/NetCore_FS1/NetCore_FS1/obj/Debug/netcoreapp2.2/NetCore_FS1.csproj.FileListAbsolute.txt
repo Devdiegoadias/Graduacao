@@ -1,0 +1,11 @@
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\bin\Debug\netcoreapp2.2\NetCore_FS1.deps.json
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\bin\Debug\netcoreapp2.2\NetCore_FS1.runtimeconfig.json
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\bin\Debug\netcoreapp2.2\NetCore_FS1.runtimeconfig.dev.json
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\bin\Debug\netcoreapp2.2\NetCore_FS1.dll
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\bin\Debug\netcoreapp2.2\NetCore_FS1.pdb
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\obj\Debug\netcoreapp2.2\NetCore_FS1.csprojAssemblyReference.cache
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\obj\Debug\netcoreapp2.2\NetCore_FS1.csproj.CoreCompileInputs.cache
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\obj\Debug\netcoreapp2.2\NetCore_FS1.AssemblyInfoInputs.cache
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\obj\Debug\netcoreapp2.2\NetCore_FS1.AssemblyInfo.cs
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\obj\Debug\netcoreapp2.2\NetCore_FS1.dll
+c:\cshp_abr_2019\NetCore_FS1\NetCore_FS1\obj\Debug\netcoreapp2.2\NetCore_FS1.pdb

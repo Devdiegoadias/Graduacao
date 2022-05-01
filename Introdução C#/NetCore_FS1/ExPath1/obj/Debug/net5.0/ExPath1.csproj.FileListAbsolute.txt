@@ -1,0 +1,16 @@
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\bin\Debug\net5.0\ExPath1.exe
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\bin\Debug\net5.0\ExPath1.deps.json
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\bin\Debug\net5.0\ExPath1.runtimeconfig.json
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\bin\Debug\net5.0\ExPath1.runtimeconfig.dev.json
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\bin\Debug\net5.0\ExPath1.dll
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\bin\Debug\net5.0\ExPath1.pdb
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.csproj.AssemblyReference.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.GeneratedMSBuildEditorConfig.editorconfig
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.AssemblyInfoInputs.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.AssemblyInfo.cs
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.csproj.CoreCompileInputs.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.dll
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\refint\ExPath1.dll
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.pdb
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ExPath1.genruntimeconfig.cache
+C:\__diego\Infnet\Introdução C#\NetCore_FS1\ExPath1\obj\Debug\net5.0\ref\ExPath1.dll

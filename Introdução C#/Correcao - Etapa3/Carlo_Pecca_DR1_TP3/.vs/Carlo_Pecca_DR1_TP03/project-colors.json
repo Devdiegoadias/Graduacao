@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e43c9c5-69d3-4ac6-a393-da9dc04f354b": {
+      "ProjectGuid": "2e43c9c5-69d3-4ac6-a393-da9dc04f354b",
+      "DisplayName": "Treino_estatico",
+      "ColorIndex": 0
+    },
+    "2be22f8f-118f-4dc0-9ac7-2ff3136803bd": {
+      "ProjectGuid": "2be22f8f-118f-4dc0-9ac7-2ff3136803bd",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

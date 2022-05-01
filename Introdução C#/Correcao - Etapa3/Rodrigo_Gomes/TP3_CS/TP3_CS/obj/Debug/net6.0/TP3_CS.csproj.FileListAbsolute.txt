@@ -1,0 +1,30 @@
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.exe
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.deps.json
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.runtimeconfig.json
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.dll
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\bin\Debug\net6.0\ref\TP3_CS.dll
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.pdb
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.csproj.AssemblyReference.cache
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.AssemblyInfoInputs.cache
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.AssemblyInfo.cs
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.csproj.CoreCompileInputs.cache
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.dll
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\ref\TP3_CS.dll
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.pdb
+C:\Users\Rod\source\repos\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.genruntimeconfig.cache
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.exe
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.deps.json
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.runtimeconfig.json
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.dll
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\bin\Debug\net6.0\TP3_CS.pdb
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.csproj.AssemblyReference.cache
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.AssemblyInfoInputs.cache
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.AssemblyInfo.cs
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.csproj.CoreCompileInputs.cache
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.dll
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\refint\TP3_CS.dll
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.pdb
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\TP3_CS.genruntimeconfig.cache
+C:\__diego\Infnet\Introdução C#\Correcao - Etapa3\Rodrigo_Gomes\TP3_CS\TP3_CS\obj\Debug\net6.0\ref\TP3_CS.dll

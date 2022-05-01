@@ -1,0 +1,24 @@
+C:\Destino\RedeSocial\RedeSocial.Data\bin\Debug\net6.0\RedeSocial.Data.deps.json
+C:\Destino\RedeSocial\RedeSocial.Data\bin\Debug\net6.0\RedeSocial.Data.dll
+C:\Destino\RedeSocial\RedeSocial.Data\bin\Debug\net6.0\RedeSocial.Data.pdb
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.csproj.AssemblyReference.cache
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.AssemblyInfoInputs.cache
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.AssemblyInfo.cs
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.csproj.CoreCompileInputs.cache
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.dll
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\refint\RedeSocial.Data.dll
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.pdb
+C:\Destino\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\ref\RedeSocial.Data.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\bin\Debug\net6.0\RedeSocial.Data.deps.json
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\bin\Debug\net6.0\RedeSocial.Data.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\bin\Debug\net6.0\RedeSocial.Data.pdb
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.csproj.AssemblyReference.cache
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.AssemblyInfoInputs.cache
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.AssemblyInfo.cs
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.csproj.CoreCompileInputs.cache
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\refint\RedeSocial.Data.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\RedeSocial.Data.pdb
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Data\obj\Debug\net6.0\ref\RedeSocial.Data.dll
