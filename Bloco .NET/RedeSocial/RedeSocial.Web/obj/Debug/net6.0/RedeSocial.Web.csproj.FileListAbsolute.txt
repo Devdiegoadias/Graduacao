@@ -274,3 +274,11 @@ C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\obj\Debug\net6.0\refint\R
 C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\obj\Debug\net6.0\RedeSocial.Web.pdb
 C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\obj\Debug\net6.0\RedeSocial.Web.genruntimeconfig.cache
 C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\obj\Debug\net6.0\ref\RedeSocial.Web.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\Microsoft.WindowsAzure.Configuration.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\RedeSocial.CrossCutting.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.Web\bin\Debug\net6.0\RedeSocial.CrossCutting.pdb

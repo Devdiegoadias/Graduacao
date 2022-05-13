@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>a0771041-55ce-47a7-a9f8-404e290ef394</UserSecretsId>    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\handlebars\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Data.Tables" Version="12.5.0" />
+  </ItemGroup>
+
+</Project>

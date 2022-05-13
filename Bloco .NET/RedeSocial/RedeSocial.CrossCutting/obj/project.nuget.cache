@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcUn+WwT0f/O5RZ1ILFw/2LqAVarmzHhCHZ1XDN0ERys+3DO5nmZadDhkT1t4jz1kMbTkfuUeJH4a+cdY+jKcA==",
+  "success": true,
+  "projectFilePath": "C:\\__diego\\Infnet\\Bloco .NET\\RedeSocial\\RedeSocial.CrossCutting\\RedeSocial.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtdias\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\azure.storage.blobs\\12.12.0\\azure.storage.blobs.12.12.0.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\azure.storage.common\\12.11.0\\azure.storage.common.12.11.0.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\microsoft.windowsazure.configurationmanager\\3.2.3\\microsoft.windowsazure.configurationmanager.3.2.3.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\dtdias\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.WindowsAzure.ConfigurationManager 3.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.WindowsAzure.ConfigurationManager",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

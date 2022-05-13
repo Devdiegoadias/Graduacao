@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedeSocial.Data", "RedeSoci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedeSocial.Web", "RedeSocial.Web\RedeSocial.Web.csproj", "{8A131E93-23F7-4F2E-BF5F-088D751DD90B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeSocial.CrossCutting", "RedeSocial.CrossCutting\RedeSocial.CrossCutting.csproj", "{298291FA-6AA9-4525-9CB3-C8ED564A3B42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A131E93-23F7-4F2E-BF5F-088D751DD90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A131E93-23F7-4F2E-BF5F-088D751DD90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A131E93-23F7-4F2E-BF5F-088D751DD90B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298291FA-6AA9-4525-9CB3-C8ED564A3B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298291FA-6AA9-4525-9CB3-C8ED564A3B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298291FA-6AA9-4525-9CB3-C8ED564A3B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298291FA-6AA9-4525-9CB3-C8ED564A3B42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

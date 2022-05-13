@@ -1,0 +1,12 @@
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\bin\Debug\net6.0\RedeSocial.CrossCutting.deps.json
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\bin\Debug\net6.0\RedeSocial.CrossCutting.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\bin\Debug\net6.0\RedeSocial.CrossCutting.pdb
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\RedeSocial.CrossCutting.csproj.AssemblyReference.cache
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\RedeSocial.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\RedeSocial.CrossCutting.AssemblyInfoInputs.cache
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\RedeSocial.CrossCutting.AssemblyInfo.cs
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\RedeSocial.CrossCutting.csproj.CoreCompileInputs.cache
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\RedeSocial.CrossCutting.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\refint\RedeSocial.CrossCutting.dll
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\RedeSocial.CrossCutting.pdb
+C:\__diego\Infnet\Bloco .NET\RedeSocial\RedeSocial.CrossCutting\obj\Debug\net6.0\ref\RedeSocial.CrossCutting.dll

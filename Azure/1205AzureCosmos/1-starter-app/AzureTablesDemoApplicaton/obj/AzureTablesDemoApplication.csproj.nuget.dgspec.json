@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\__diego\\Infnet\\Azure\\1205AzureCosmos\\1-starter-app\\AzureTablesDemoApplicaton\\AzureTablesDemoApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\__diego\\Infnet\\Azure\\1205AzureCosmos\\1-starter-app\\AzureTablesDemoApplicaton\\AzureTablesDemoApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\__diego\\Infnet\\Azure\\1205AzureCosmos\\1-starter-app\\AzureTablesDemoApplicaton\\AzureTablesDemoApplication.csproj",
+        "projectName": "AzureTablesDemoApplication",
+        "projectPath": "C:\\__diego\\Infnet\\Azure\\1205AzureCosmos\\1-starter-app\\AzureTablesDemoApplicaton\\AzureTablesDemoApplication.csproj",
+        "packagesPath": "C:\\Users\\dtdias\\.nuget\\packages\\",
+        "outputPath": "C:\\__diego\\Infnet\\Azure\\1205AzureCosmos\\1-starter-app\\AzureTablesDemoApplicaton\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dtdias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Azure.Data.Tables": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
